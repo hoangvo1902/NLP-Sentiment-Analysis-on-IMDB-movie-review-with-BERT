@@ -12,6 +12,8 @@ Welcome to the academic research repository dedicated to "NLP Sentiment Analysis
 
 - **[train_eval.ipynb](train_eval.ipynb):** This Jupyter Notebook file serves as the primary source for the code used in training and evaluating the sentiment analysis model, utilizing the powerful BERT framework.
 
+- **[explore.ipynb](explore.ipynb):** Explore this Jupyter Notebook file for additional insights and exploratory analysis related to the project.
+
 ## Repository Structure
 
 The repository maintains a structured organization:
@@ -28,7 +30,7 @@ To delve into this academic project, follow these steps:
 
 2. Utilize [app.py](app.py) to engage with the sentiment analysis model through the provided web application.
 
-3. Examine the code within [train_eval.ipynb](train_eval.ipynb) for a comprehensive understanding of the model training and evaluation processes.
+3. Examine the code within [train_eval.ipynb](train_eval.ipynb) and [explore.ipynb](explore.ipynb) for a comprehensive understanding of the model training, evaluation processes, and additional exploratory analysis.
 
 ## Repository Directory
 
@@ -46,4 +48,5 @@ For academic or collaborative inquiries, please contact:
 
 Thank you for exploring the "NLP Sentiment Analysis on IMDB Movie Reviews with BERT" academic research repository at the University of Science, VNU!
 
-Remember that, I still kept some files in private, if you want full project, please contact me via email.
+Remember that, I still kept some files in private, if you want the full project, please contact me via email.
+
